@@ -1,0 +1,16 @@
+{
+  "name": "VIBE | Real Estate CRM",
+  "short_name": "VIBE",
+  "description": "One CRM for your entire real estate empire.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#D4A017",
+  "icons": [
+    {
+      "src": "/favicon-source.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
